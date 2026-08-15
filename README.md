@@ -42,8 +42,6 @@ A dashboard analyzing sales performance across products, regions, categories, an
 
 **Recommendations:** Replicate Western Cape's success in other regions, plan inventory/marketing around the November peak, run mid-year promotions to counter the July dip, and use bundling/cross-selling to raise average order value.
 
-📁 [View project files](./sales-performance-dashboard.png,sales-performance-dashboard.pbix)
-
 ---
 
 ### 2. HR Analytics Dashboard
@@ -81,8 +79,6 @@ A dashboard analyzing employee attrition across departments, regions, job roles,
 
 **Recommendations:** Prioritize retention initiatives in IT and HR, investigate regional root causes in Gauteng/Eastern Cape, manage overtime and workload, and build targeted career development for Assistants and Analysts.
 
-📁 [View project files](./hr-analytics-dashboard)
-
 ---
 
 ### 3. Financial Performance & Insights Dashboard
@@ -117,8 +113,6 @@ A dashboard translating raw financial data into an executive view of revenue, pr
 - Operating expenses ($12.73M) are spread fairly evenly across HR, IT, Marketing, and Sales (roughly 14–15% each).
 
 **Recommendations:** Replicate high-margin practices across the business, reinvest in what drives the March/October peaks, address the December dip with targeted offers, and continue investing in the North region while building growth strategies for the South.
-
-📁 [View project files](./financial-performance-dashboard)
 
 ---
 
