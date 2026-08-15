@@ -42,7 +42,7 @@ A dashboard analyzing sales performance across products, regions, categories, an
 
 **Recommendations:** Replicate Western Cape's success in other regions, plan inventory/marketing around the November peak, run mid-year promotions to counter the July dip, and use bundling/cross-selling to raise average order value.
 
-📁 [View project files](./sales-performance-dashboard)
+📁 [View project files](./sales-performance-dashboard.png,sales-performance-dashboard.pbix)
 
 ---
 
