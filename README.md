@@ -129,7 +129,7 @@ I completed a Data Science Bootcamp at Zaio Institute of Technology, building ha
 
 ## 📫 Contact
 
-- **LinkedIn:** [Add your LinkedIn URL]
+- **LinkedIn:** https://www.linkedin.com/in/malekutu-mahlatji
 - **Email:** mahlatjileonas@gmail.com
 
 ---
