@@ -2,7 +2,7 @@
 
 Hi, I'm **Malekutu Leonas Mahlatji** 👋
 
-This repository showcases the projects I completed during my **Data Science Bootcamp at Zaio Institute of Technology** (final result: 76%). It includes three business analysis dashboards built using **Excel** and **Power BI**, each designed as a single-page executive dashboard answering the key questions stakeholders ask about a specific business area — then translating those insights into actionable recommendations.
+This repository showcases the projects I completed during my **Data Science Bootcamp at Zaio Institute of Technology** (final result: 84%). It includes three business analysis dashboards built using **Excel** and **Power BI**, each designed as a single-page executive dashboard answering the key questions stakeholders ask about a specific business area — then translating those insights into actionable recommendations.
 
 ---
 
